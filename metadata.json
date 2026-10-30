@@ -1,0 +1,6 @@
+{
+  "name": "SolyNext",
+  "description": "JARVIS-inspired advanced personal AI voice assistant with real-time speech, persistent memory, and live tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SolyNext</string>
+    <string name="assistant_title">SolyNext AI</string>
+    <string name="listening">Listening...</string>
+    <string name="thinking">Processing...</string>
+    <string name="speaking">Responding...</string>
+    <string name="idle">Ready</string>
+</resources>
+
